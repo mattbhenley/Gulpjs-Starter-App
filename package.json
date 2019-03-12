@@ -9,6 +9,8 @@
   "author": "Matt Henley",
   "license": "ISC",
   "devDependencies": {
-    "gulp": "^4.0.0"
+    "gulp": "^4.0.0",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-uglify": "^3.0.2"
   }
 }
